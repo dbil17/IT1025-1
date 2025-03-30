@@ -11,3 +11,5 @@ Flower.py shows OOP using Python. The main function creates objects of the class
 Screenshot showing the code and its output when executed. 
 # Filename: Python.png
 Screenshot of Module 10 - Task 3 / Hands-on practice. This program is ment to check if a program is greater than 100 or not.
+# Filename: NetworkDesign.jpg
+To describe the relationship between computers, printers, and routers.
