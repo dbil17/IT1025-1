@@ -13,3 +13,5 @@ Screenshot showing the code and its output when executed.
 Screenshot of Module 10 - Task 3 / Hands-on practice. This program is ment to check if a program is greater than 100 or not.
 # Filename: NetworkDesign.jpg
 To describe the relationship between computers, printers, and routers.
+# Filename: SQLQuery.png 
+Screenshot of practicing SQL queries to take out data from business questions and sort them accordingly
