@@ -15,3 +15,5 @@ Screenshot of Module 10 - Task 3 / Hands-on practice. This program is ment to ch
 To describe the relationship between computers, printers, and routers.
 # Filename: SQLQuery.png 
 Screenshot of practicing SQL queries to take out data from business questions and sort them accordingly
+# Filename: MyHTML.png
+Containes a screenshot of a website I created that is meant to influence you to adopt a puppy!
